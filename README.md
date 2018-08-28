@@ -34,6 +34,11 @@ patchy recall
 patchy recall some-file
 ```
 
+```
+# wait on ports and recall
+patchy -w 1m recall some-file
+```
+
 
 ## build with docker
 
